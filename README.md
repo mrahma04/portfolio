@@ -3,7 +3,7 @@
 https://mrahma04.github.io/portfolio/
 
 #### Screenshot of the Website
-![Optimized Horiseon Homepage](https://github.com/mrahma04/horiseon/blob/main/assets/images/screencapture-mrahma04-github-io-horiseon-2021-10-10-22_23_18.png)
+![Optimized Horiseon Homepage](https://github.com/mrahma04/portfolio/blob/main/images/screencapture-mrahma04-github-io-portfolio-2021-10-18-05_44_12.png)
 
 #### This is my portfolio website built entirely using HTML5 and CSS Flexbox. Content includes links to my published works, how to contact me and my social media handles. 
 
